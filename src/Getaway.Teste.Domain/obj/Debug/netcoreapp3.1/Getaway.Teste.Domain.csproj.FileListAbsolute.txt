@@ -1,0 +1,9 @@
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\bin\Debug\netcoreapp3.1\Getaway.Teste.Domain.deps.json
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\bin\Debug\netcoreapp3.1\Getaway.Teste.Domain.dll
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\bin\Debug\netcoreapp3.1\Getaway.Teste.Domain.pdb
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\obj\Debug\netcoreapp3.1\Getaway.Teste.Domain.csprojAssemblyReference.cache
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\obj\Debug\netcoreapp3.1\Getaway.Teste.Domain.AssemblyInfoInputs.cache
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\obj\Debug\netcoreapp3.1\Getaway.Teste.Domain.AssemblyInfo.cs
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\obj\Debug\netcoreapp3.1\Getaway.Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\obj\Debug\netcoreapp3.1\Getaway.Teste.Domain.dll
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Domain\obj\Debug\netcoreapp3.1\Getaway.Teste.Domain.pdb

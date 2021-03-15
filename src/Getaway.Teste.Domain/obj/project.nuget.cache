@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6MbsuTE8MXvOvC7CCYjS6RpHcJFMeZIxI41eN0vOrBIhbW+asiHsDzBTfW5983WtaiPIPuifEpvOZagCsCrJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinogueira\\source\\repos\\Getaway.Teste\\src\\Getaway.Teste.Domain\\Getaway.Teste.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinogueira\\.nuget\\packages\\fluentvalidation\\9.5.2\\fluentvalidation.9.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

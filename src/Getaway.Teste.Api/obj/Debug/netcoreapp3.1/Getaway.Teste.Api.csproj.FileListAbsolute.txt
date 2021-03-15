@@ -1,0 +1,5 @@
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Api\obj\Debug\netcoreapp3.1\Getaway.Teste.Api.csprojAssemblyReference.cache
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Api\obj\Debug\netcoreapp3.1\Getaway.Teste.Api.AssemblyInfoInputs.cache
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Api\obj\Debug\netcoreapp3.1\Getaway.Teste.Api.AssemblyInfo.cs
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Api\obj\Debug\netcoreapp3.1\Getaway.Teste.Api.csproj.CoreCompileInputs.cache
+C:\Users\tinogueira\source\repos\Getaway.Teste\src\Getaway.Teste.Api\obj\Debug\netcoreapp3.1\Getaway.Teste.Api.MvcApplicationPartsAssemblyInfo.cache
